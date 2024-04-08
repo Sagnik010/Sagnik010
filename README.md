@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Sagnik Ghosh
 - 👀 I’m interested in ... Cloud Technologies and AI/ML 
 - 🌱 I’m currently ... upskilling my self and improving myself on the things i like doing 
-- 📫 How to reach me ... Email - sagnikghosh890@gmail.com   Linkedin - https://www.linkedin.com/in/sagnik-ghosh-737733241/ Instagram - https://www.instagram.com/sagnik.___/
+- 📫 How to reach me ...
+  Email - sagnikghosh890@gmail.com
+  Linkedin - https://www.linkedin.com/in/sagnik-ghosh-737733241/
+  Instagram - https://www.instagram.com/sagnik.___/
 - ⚡ Fun fact: ... I love bike rides and listening to music
 
 <!---
