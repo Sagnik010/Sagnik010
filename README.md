@@ -5,6 +5,7 @@
   Email - sagnikghosh890@gmail.com
   Linkedin - https://www.linkedin.com/in/sagnik-ghosh-737733241/
   Instagram - https://www.instagram.com/sagnik.___/
+  Portfolio - https://portfoliosagnik.netlify.app/
 - ⚡ Fun fact: ... I love bike rides and listening to music
 
 <!---
